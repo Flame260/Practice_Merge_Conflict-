@@ -1,4 +1,5 @@
 # Practice_Merge_Conflict-
 
-My name is Derek 
-My favorite number is 2
+Our names are QiXiang and Derek
+Our favorite numbbers are 6 and 2
+
